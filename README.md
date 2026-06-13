@@ -1,6 +1,6 @@
 # Data Analytics Skills for Hermes
 
-本仓库 fork 自 **[nimrodfisher/data-analytics-skills](https://github.com/nimrodfisher/data-analytics-skills)**（上游仓库），是一套包含 31 个数据分析技能的指令集，涵盖数据质量验证、探索性分析、统计检验、可视化、文档编写、利益相关方沟通等完整分析流程。
+本仓库 fork 自 **[nimrodfisher/data-analytics-skills](https://github.com/nimrodfisher/data-analytics-skills)**（上游仓库），完整保留了上游仓库的所有内容，没有对上游仓库的skills做任何实质性的修改，调整仅限于适配Hermes使用环境和细微功能修补，具体调整请参见以下段落。
 
 ## 我们做了什么
 

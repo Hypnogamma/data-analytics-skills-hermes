@@ -55,12 +55,18 @@ python 03-data-analysis-investigation/ab-test-analysis/scripts/ab_test_analyzer.
 
 ## Conventions
 
-### SKILL.md format
+### SKILL.md format (Hermes-compatible)
 
 ```markdown
 ---
 name: skill-name
-description: One-line description
+version: 1.0.0
+platforms: [macos, linux, windows]
+description: One-line description starting with "Use when..."
+tags: [category-tags]
+triggers:
+  - trigger phrase
+  - related term
 ---
 
 ## When to use
@@ -69,7 +75,10 @@ description: One-line description
 ## Output
 ```
 
-The Process section uses numbered steps (typically 6–7). All four sections are mandatory.
+All four sections are mandatory. The frontmatter now includes Hermes-specific fields:
+`version`, `platforms`, `tags`, and `triggers` — these enable auto-loading in
+Hermes Agent. The `description` field uses multi-line YAML (indented) and should
+start with "Use when..." to signal the trigger class.
 
 ### Python scripts
 
@@ -93,3 +102,27 @@ The Process section uses numbered steps (typically 6–7). All four sections are
 ## Exemplar skill
 
 `01-data-quality-validation/programmatic-eda/` is the most complete skill — read it first to understand the expected depth and structure for scripts, references, and assets.
+
+## Hermes-format Migration
+
+This fork adds Hermes-specific frontmatter (`version`, `platforms`, `tags`, `triggers`)
+to all 31 SKILL.md files, enabling auto-loading in Hermes Agent. The body content
+(## When to use, ## Process, etc.) is unchanged from upstream.
+
+### What was added
+- **Frontmatter upgrade** (31 skills): Claude-minimal → Hermes-complete with triggers
+- **Body improvements** (3 skills): `metric-reconciliation`, `schema-mapper`, and
+  `visualization-builder` have updated content from local Hermes usage
+- **New reference**: `04-data-storytelling-visualization/visualization-builder/references/axis_common_mistakes.md`
+  — axis traps discovered through real chart generation
+
+### What was NOT touched
+- Scripts, assets, and category structure are identical to upstream
+- No Hermes-specific files added outside the frontmatter and one new reference
+- The upstream `validate_skills.py` checks for `##` headings; these skills use `#`
+  (Hermes standard) — the validator will report false positives for section checks
+
+### How to use with Hermes
+Install via `hermes skills install` pointing to this repo, or copy individual
+skill directories to `~/.hermes/skills/`. The `triggers` field in frontmatter
+enables automatic skill loading when the agent encounters matching task language.

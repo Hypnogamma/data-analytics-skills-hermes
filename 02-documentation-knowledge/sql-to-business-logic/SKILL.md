@@ -1,6 +1,24 @@
 ---
 name: sql-to-business-logic
-description: Translate SQL queries into plain language business logic. Use when documenting queries, explaining analysis to non-technical stakeholders, code reviewing for correctness, or building a query catalog.
+version: 1.0.0
+platforms:
+  - macos
+  - linux
+  - windows
+description: Translate SQL queries into plain language business logic. Use when 
+  documenting queries, explaining analysis to non-technical stakeholders, code 
+  reviewing for correctness, or building a query catalog.
+tags:
+  - data-analytics
+  - documentation
+  - sql-to-business-logic
+triggers:
+  - translate SQL
+  - explain query
+  - business logic
+  - SQL to plain English
+  - query explanation
+  - business translation
 ---
 
 # SQL to Business Logic Translator

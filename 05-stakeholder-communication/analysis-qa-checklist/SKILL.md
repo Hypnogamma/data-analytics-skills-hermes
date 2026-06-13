@@ -1,6 +1,24 @@
 ---
 name: analysis-qa-checklist
-description: Pre-delivery quality assurance for analysis work. Use when reviewing analysis before sharing with stakeholders, checking for completeness, validating assumptions, or ensuring clarity of recommendations.
+version: 1.0.0
+platforms:
+  - macos
+  - linux
+  - windows
+description: Pre-delivery quality assurance for analysis work. Use when 
+  reviewing analysis before sharing with stakeholders, checking for 
+  completeness, validating assumptions, or ensuring clarity of recommendations.
+tags:
+  - data-analytics
+  - communication
+  - analysis-qa-checklist
+triggers:
+  - QA analysis
+  - review findings
+  - analysis quality check
+  - analysis review
+  - quality checklist
+  - finding validation
 ---
 
 # When to use

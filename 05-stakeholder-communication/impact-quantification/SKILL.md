@@ -1,6 +1,24 @@
 ---
 name: impact-quantification
-description: Estimate and communicate business impact of insights. Use when sizing opportunities discovered in analysis, calculating ROI of recommended actions, or prioritizing initiatives by potential impact.
+version: 1.0.0
+platforms:
+  - macos
+  - linux
+  - windows
+description: Estimate and communicate business impact of insights. Use when 
+  sizing opportunities discovered in analysis, calculating ROI of recommended 
+  actions, or prioritizing initiatives by potential impact.
+tags:
+  - data-analytics
+  - communication
+  - impact-quantification
+triggers:
+  - quantify impact
+  - measure effect
+  - business impact
+  - ROI calculation
+  - impact estimation
+  - before-after analysis
 ---
 
 # When to use

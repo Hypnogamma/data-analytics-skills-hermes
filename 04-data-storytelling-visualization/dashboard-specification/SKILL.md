@@ -1,6 +1,24 @@
 ---
 name: dashboard-specification
-description: Design specifications for effective dashboards. Use when planning new dashboards, improving existing ones, or documenting dashboard requirements before development starts.
+version: 1.0.0
+platforms:
+  - macos
+  - linux
+  - windows
+description: Design specifications for effective dashboards. Use when planning 
+  new dashboards, improving existing ones, or documenting dashboard requirements
+  before development starts.
+tags:
+  - data-analytics
+  - visualization
+  - dashboard-specification
+triggers:
+  - dashboard design
+  - KPI dashboard
+  - reporting dashboard
+  - dashboard layout
+  - metric placement
+  - dashboard wireframe
 ---
 
 # Dashboard Specification

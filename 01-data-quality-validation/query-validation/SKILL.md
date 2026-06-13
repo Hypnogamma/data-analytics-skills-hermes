@@ -1,6 +1,24 @@
 ---
 name: query-validation
-description: SQL query review for correctness, performance, and best practices. Activate when a query needs review before production use, shows unexpected results, or runs too slowly.
+version: 1.0.0
+platforms:
+  - macos
+  - linux
+  - windows
+description: SQL query review for correctness, performance, and best practices. 
+  Activate when a query needs review before production use, shows unexpected 
+  results, or runs too slowly.
+tags:
+  - data-analytics
+  - data-quality
+  - query-validation
+triggers:
+  - validate SQL
+  - review my query
+  - query performance
+  - SQL correctness
+  - explain query
+  - query optimization
 ---
 
 # When to use

@@ -1,6 +1,24 @@
 ---
 name: stakeholder-requirements-gathering
-description: Structured requirements elicitation for analysis requests. Use when scoping new analysis projects, clarifying ambiguous business questions, or documenting analysis acceptance criteria with stakeholders.
+version: 1.0.0
+platforms:
+  - macos
+  - linux
+  - windows
+description: Structured requirements elicitation for analysis requests. Use when
+  scoping new analysis projects, clarifying ambiguous business questions, or 
+  documenting analysis acceptance criteria with stakeholders.
+tags:
+  - data-analytics
+  - communication
+  - stakeholder-requirements-gathering
+triggers:
+  - gather requirements
+  - stakeholder needs
+  - scope analysis
+  - requirement interview
+  - scope definition
+  - success criteria
 ---
 
 # When to use

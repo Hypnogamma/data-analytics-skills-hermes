@@ -1,6 +1,24 @@
 ---
 name: funnel-analysis
-description: Conversion funnel analysis with drop-off investigation. Use when analyzing multi-step processes, identifying conversion bottlenecks, comparing segments through a funnel, or optimizing user journeys.
+version: 1.0.0
+platforms:
+  - macos
+  - linux
+  - windows
+description: Conversion funnel analysis with drop-off investigation. Use when 
+  analyzing multi-step processes, identifying conversion bottlenecks, comparing 
+  segments through a funnel, or optimizing user journeys.
+tags:
+  - data-analytics
+  - investigation
+  - funnel-analysis
+triggers:
+  - funnel analysis
+  - conversion funnel
+  - drop-off analysis
+  - funnel steps
+  - conversion rate
+  - funnel visualization
 ---
 
 # Funnel Analysis

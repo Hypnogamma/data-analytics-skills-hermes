@@ -1,6 +1,24 @@
 ---
 name: analysis-retrospective
-description: Post-analysis learning and process improvement. Use when completing major analysis projects, documenting lessons learned, or improving team analytical practices.
+version: 1.0.0
+platforms:
+  - macos
+  - linux
+  - windows
+description: Post-analysis learning and process improvement. Use when completing
+  major analysis projects, documenting lessons learned, or improving team 
+  analytical practices.
+tags:
+  - data-analytics
+  - workflow
+  - analysis-retrospective
+triggers:
+  - retrospective
+  - lessons learned
+  - improve analysis
+  - post-mortem
+  - what went well
+  - process improvement
 ---
 
 # When to use

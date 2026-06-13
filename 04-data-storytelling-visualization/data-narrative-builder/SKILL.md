@@ -1,6 +1,24 @@
 ---
 name: data-narrative-builder
-description: Build compelling data-driven narratives. Use when presenting analysis results, creating stakeholder reports, or transforming a set of findings into a story that drives a specific decision or action.
+version: 1.0.0
+platforms:
+  - macos
+  - linux
+  - windows
+description: Build compelling data-driven narratives. Use when presenting 
+  analysis results, creating stakeholder reports, or transforming a set of 
+  findings into a story that drives a specific decision or action.
+tags:
+  - data-analytics
+  - visualization
+  - data-narrative-builder
+triggers:
+  - tell story with data
+  - data narrative
+  - compelling story
+  - narrative structure
+  - data storytelling
+  - presentation flow
 ---
 
 # Data Narrative Builder

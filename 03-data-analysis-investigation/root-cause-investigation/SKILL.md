@@ -1,6 +1,24 @@
 ---
 name: root-cause-investigation
-description: Systematic investigation of metric changes and anomalies. Use when a metric unexpectedly changes, investigating business metric drops, explaining performance variations, or drilling into aggregated metric drivers.
+version: 1.0.0
+platforms:
+  - macos
+  - linux
+  - windows
+description: Systematic investigation of metric changes and anomalies. Use when 
+  a metric unexpectedly changes, investigating business metric drops, explaining
+  performance variations, or drilling into aggregated metric drivers.
+tags:
+  - data-analytics
+  - investigation
+  - root-cause-investigation
+triggers:
+  - root cause analysis
+  - investigate anomaly
+  - why did this happen
+  - RCA framework
+  - causal analysis
+  - incident diagnosis
 ---
 
 # Root Cause Investigation

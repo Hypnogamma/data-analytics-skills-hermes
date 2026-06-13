@@ -1,6 +1,24 @@
 ---
 name: context-packager
-description: Efficiently package context for AI-assisted analysis. Use when preparing to work with Claude on analysis, organizing context documents, or structuring prompts for complex analytical tasks.
+version: 1.0.0
+platforms:
+  - macos
+  - linux
+  - windows
+description: Efficiently package context for AI-assisted analysis. Use when 
+  preparing to work with Claude on analysis, organizing context documents, or 
+  structuring prompts for complex analytical tasks.
+tags:
+  - data-analytics
+  - workflow
+  - context-packager
+triggers:
+  - package context
+  - share analysis
+  - transfer knowledge
+  - context document
+  - analysis handoff
+  - knowledge transfer
 ---
 
 # When to use

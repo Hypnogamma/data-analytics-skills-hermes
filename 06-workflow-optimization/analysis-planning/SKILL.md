@@ -1,6 +1,24 @@
 ---
 name: analysis-planning
-description: Structure analysis approach before starting work. Use when receiving new analysis requests, breaking down complex questions into steps, or planning iterative analysis workflows.
+version: 1.0.0
+platforms:
+  - macos
+  - linux
+  - windows
+description: Structure analysis approach before starting work. Use when 
+  receiving new analysis requests, breaking down complex questions into steps, 
+  or planning iterative analysis workflows.
+tags:
+  - data-analytics
+  - workflow
+  - analysis-planning
+triggers:
+  - analysis plan
+  - plan analysis
+  - analytical approach
+  - analysis roadmap
+  - query plan
+  - investigation plan
 ---
 
 # When to use

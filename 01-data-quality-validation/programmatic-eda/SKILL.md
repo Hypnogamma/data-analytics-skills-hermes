@@ -1,6 +1,28 @@
 ---
 name: programmatic-eda
-description: Systematic exploratory data analysis. Activate when a dataset needs profiling — structure check, nulls, outliers, distributions, correlations — before deeper analysis begins.
+version: 1.0.0
+platforms:
+  - macos
+  - linux
+  - windows
+description: Systematic exploratory data analysis. Activate when a dataset needs
+  profiling — structure check, nulls, outliers, distributions, correlations — 
+  before deeper analysis begins.
+tags: [data-analysis, data-quality, EDA, profiling, statistics]
+triggers:
+  - exploratory data analysis
+  - EDA
+  - profile this dataset
+  - data overview
+  - understand my data
+  - check data quality
+  - data profiling
+  - describe my data
+  - summary statistics
+  - null values
+  - outlier detection
+  - data distributions
+  - correlation analysis
 ---
 
 # When to use

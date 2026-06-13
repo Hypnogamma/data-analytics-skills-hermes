@@ -1,6 +1,24 @@
 ---
 name: insight-synthesis
-description: Transform data findings into compelling insights. Use when converting analysis results into actionable insights, connecting findings to business impact, or preparing insights for stakeholder communication.
+version: 1.0.0
+platforms:
+  - macos
+  - linux
+  - windows
+description: Transform data findings into compelling insights. Use when 
+  converting analysis results into actionable insights, connecting findings to 
+  business impact, or preparing insights for stakeholder communication.
+tags:
+  - data-analytics
+  - visualization
+  - insight-synthesis
+triggers:
+  - synthesize insights
+  - key findings
+  - discover patterns
+  - insight extraction
+  - finding synthesis
+  - pattern discovery
 ---
 
 # Insight Synthesis

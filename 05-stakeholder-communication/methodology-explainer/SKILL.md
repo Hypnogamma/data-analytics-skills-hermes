@@ -1,6 +1,24 @@
 ---
 name: methodology-explainer
-description: Explain analysis methodology to diverse audiences. Use when documenting 'how we did this' sections, building trust through transparency, or teaching analytical approaches to stakeholders.
+version: 1.0.0
+platforms:
+  - macos
+  - linux
+  - windows
+description: Explain analysis methodology to diverse audiences. Use when 
+  documenting 'how we did this' sections, building trust through transparency, 
+  or teaching analytical approaches to stakeholders.
+tags:
+  - data-analytics
+  - communication
+  - methodology-explainer
+triggers:
+  - explain methodology
+  - methodology documentation
+  - how we analyzed
+  - statistical method
+  - approach explanation
+  - technique overview
 ---
 
 # When to use

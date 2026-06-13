@@ -1,6 +1,24 @@
 ---
 name: analysis-documentation
-description: Structured, reproducible analysis documentation. Use when documenting analysis findings, creating analysis notebooks, ensuring reproducibility, or building analysis archives for future reference.
+version: 1.0.0
+platforms:
+  - macos
+  - linux
+  - windows
+description: Structured, reproducible analysis documentation. Use when 
+  documenting analysis findings, creating analysis notebooks, ensuring 
+  reproducibility, or building analysis archives for future reference.
+tags:
+  - data-analytics
+  - documentation
+  - analysis-documentation
+triggers:
+  - document analysis
+  - write analysis doc
+  - analysis documentation
+  - methodology doc
+  - analysis write-up
+  - findings document
 ---
 
 # Analysis Documentation

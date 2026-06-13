@@ -1,6 +1,24 @@
 ---
 name: executive-summary-generator
-description: Create concise executive summaries from detailed analysis. Use when preparing board decks, executive briefings, or condensing complex analysis into decision-ready formats for senior audiences.
+version: 1.0.0
+platforms:
+  - macos
+  - linux
+  - windows
+description: Create concise executive summaries from detailed analysis. Use when
+  preparing board decks, executive briefings, or condensing complex analysis 
+  into decision-ready formats for senior audiences.
+tags:
+  - data-analytics
+  - visualization
+  - executive-summary-generator
+triggers:
+  - executive summary
+  - stakeholder summary
+  - report for leadership
+  - one-pager
+  - executive brief
+  - KPI summary
 ---
 
 # Executive Summary Generator

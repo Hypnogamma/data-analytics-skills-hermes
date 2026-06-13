@@ -1,6 +1,25 @@
 ---
 name: technical-to-business-translator
-description: Translate technical analysis into business language. Use when explaining statistical concepts to non-analysts, simplifying technical findings, or bridging communication between data teams and business stakeholders.
+version: 1.0.0
+platforms:
+  - macos
+  - linux
+  - windows
+description: Translate technical analysis into business language. Use when 
+  explaining statistical concepts to non-analysts, simplifying technical 
+  findings, or bridging communication between data teams and business 
+  stakeholders.
+tags:
+  - data-analytics
+  - communication
+  - technical-to-business-translator
+triggers:
+  - translate for business
+  - explain to stakeholders
+  - business translation
+  - technical to plain English
+  - stakeholder communication
+  - bridge gap
 ---
 
 # When to use

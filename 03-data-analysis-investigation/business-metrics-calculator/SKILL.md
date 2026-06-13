@@ -1,6 +1,24 @@
 ---
 name: business-metrics-calculator
-description: Standard business metric calculation with industry benchmarks. Use when calculating SaaS metrics (MRR, churn, LTV, CAC), e-commerce KPIs, or product analytics metrics with proper definitions.
+version: 1.0.0
+platforms:
+  - macos
+  - linux
+  - windows
+description: Standard business metric calculation with industry benchmarks. Use 
+  when calculating SaaS metrics (MRR, churn, LTV, CAC), e-commerce KPIs, or 
+  product analytics metrics with proper definitions.
+tags:
+  - data-analytics
+  - investigation
+  - business-metrics-calculator
+triggers:
+  - calculate KPI
+  - compute metric
+  - metric formula
+  - derive KPI
+  - unit economics
+  - metric calculation
 ---
 
 # Business Metrics Calculator

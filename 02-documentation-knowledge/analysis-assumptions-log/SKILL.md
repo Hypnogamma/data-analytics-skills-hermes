@@ -1,6 +1,24 @@
 ---
 name: analysis-assumptions-log
-description: Track and document analytical assumptions and decisions. Use when making analytical choices, documenting trade-offs, ensuring transparency, or creating audit trails for analytical work.
+version: 1.0.0
+platforms:
+  - macos
+  - linux
+  - windows
+description: Track and document analytical assumptions and decisions. Use when 
+  making analytical choices, documenting trade-offs, ensuring transparency, or 
+  creating audit trails for analytical work.
+tags:
+  - data-analytics
+  - documentation
+  - analysis-assumptions-log
+triggers:
+  - document assumptions
+  - analysis assumptions
+  - log decisions
+  - assumption tracking
+  - decision log
+  - methodology notes
 ---
 
 # Analysis Assumptions Log

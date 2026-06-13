@@ -1,6 +1,25 @@
 ---
 name: data-quality-audit
-description: Comprehensive data quality assessment against business rules, schema constraints, and freshness expectations. Activate when validating data pipeline outputs before production use, auditing a dataset against defined business rules, or producing a quality scorecard for a data asset.
+version: 1.0.0
+platforms:
+  - macos
+  - linux
+  - windows
+description: Comprehensive data quality assessment against business rules, 
+  schema constraints, and freshness expectations. Activate when validating data 
+  pipeline outputs before production use, auditing a dataset against defined 
+  business rules, or producing a quality scorecard for a data asset.
+tags:
+  - data-analytics
+  - data-quality
+  - data-quality-audit
+triggers:
+  - data quality check
+  - data validation
+  - check my data
+  - completeness check
+  - null analysis
+  - freshness check
 ---
 
 # When to use

@@ -1,6 +1,28 @@
 ---
 name: cohort-analysis
-description: Time-based cohort analysis with retention and behaviour tracking. Activate when you need to measure how groups of users/customers behave over time — retention rates, revenue by cohort, or feature adoption curves.
+version: 1.0.0
+platforms:
+  - macos
+  - linux
+  - windows
+description: Time-based cohort analysis with retention and behaviour tracking. 
+  Activate when you need to measure how groups of users/customers behave over 
+  time — retention rates, revenue by cohort, or feature adoption curves.
+tags: [data-analysis, product-analytics, user-behavior, retention, cohorts]
+triggers:
+  - cohort analysis
+  - retention analysis
+  - user retention
+  - retention rate
+  - cohort retention
+  - user churn
+  - customer retention
+  - behavior over time
+  - retention matrix
+  - monthly active users
+  - DAU
+  - MAU
+  - churn analysis
 ---
 
 # When to use

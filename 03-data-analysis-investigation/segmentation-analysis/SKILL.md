@@ -1,6 +1,24 @@
 ---
 name: segmentation-analysis
-description: Customer/user segmentation with actionable insights. Use when identifying distinct customer groups, analyzing segment-specific behavior, profiling high-value segments, or testing segmentation hypotheses.
+version: 1.0.0
+platforms:
+  - macos
+  - linux
+  - windows
+description: Customer/user segmentation with actionable insights. Use when 
+  identifying distinct customer groups, analyzing segment-specific behavior, 
+  profiling high-value segments, or testing segmentation hypotheses.
+tags:
+  - data-analytics
+  - investigation
+  - segmentation-analysis
+triggers:
+  - segmentation analysis
+  - segment users
+  - customer segments
+  - user clustering
+  - segment profiling
+  - behavioral segments
 ---
 
 # Segmentation Analysis

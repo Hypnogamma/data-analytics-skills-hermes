@@ -1,6 +1,24 @@
 ---
 name: time-series-analysis
-description: Temporal pattern detection and forecasting. Use when analyzing trends over time, detecting seasonality, identifying anomalies in time series, or building simple forecasting models for planning.
+version: 1.0.0
+platforms:
+  - macos
+  - linux
+  - windows
+description: Temporal pattern detection and forecasting. Use when analyzing 
+  trends over time, detecting seasonality, identifying anomalies in time series,
+  or building simple forecasting models for planning.
+tags:
+  - data-analytics
+  - investigation
+  - time-series-analysis
+triggers:
+  - time series analysis
+  - trend analysis
+  - seasonal patterns
+  - time series forecasting
+  - trend decomposition
+  - temporal anomaly
 ---
 
 # Time Series Analysis

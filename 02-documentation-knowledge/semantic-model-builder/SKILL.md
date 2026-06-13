@@ -1,6 +1,25 @@
 ---
 name: semantic-model-builder
-description: Build structured semantic layer documentation for metrics, dimensions, and entities. Activate when you need to define a business metric, document a data model, or create YAML definitions compatible with dbt Semantic Layer or similar frameworks.
+version: 1.0.0
+platforms:
+  - macos
+  - linux
+  - windows
+description: Build structured semantic layer documentation for metrics, 
+  dimensions, and entities. Activate when you need to define a business metric, 
+  document a data model, or create YAML definitions compatible with dbt Semantic
+  Layer or similar frameworks.
+tags:
+  - data-analytics
+  - documentation
+  - semantic-model-builder
+triggers:
+  - document metric
+  - define KPI
+  - metric definition
+  - semantic layer
+  - business logic
+  - metric YAML
 ---
 
 # When to use

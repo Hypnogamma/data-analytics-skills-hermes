@@ -1,6 +1,24 @@
 ---
 name: peer-review-template
-description: Structured peer review for analytical work. Use when reviewing teammates' analysis, providing constructive feedback, or establishing analysis quality standards.
+version: 1.0.0
+platforms:
+  - macos
+  - linux
+  - windows
+description: Structured peer review for analytical work. Use when reviewing 
+  teammates' analysis, providing constructive feedback, or establishing analysis
+  quality standards.
+tags:
+  - data-analytics
+  - workflow
+  - peer-review-template
+triggers:
+  - peer review
+  - review analysis
+  - code review for data
+  - review template
+  - feedback framework
+  - quality gate
 ---
 
 # When to use

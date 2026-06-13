@@ -1,6 +1,24 @@
 ---
 name: data-catalog-entry
-description: Create standardized metadata for data assets. Use when documenting new datasets, building data catalogs, improving data discoverability, or creating data dictionaries for teams.
+version: 1.0.0
+platforms:
+  - macos
+  - linux
+  - windows
+description: Create standardized metadata for data assets. Use when documenting 
+  new datasets, building data catalogs, improving data discoverability, or 
+  creating data dictionaries for teams.
+tags:
+  - data-analytics
+  - documentation
+  - data-catalog-entry
+triggers:
+  - data catalog
+  - catalog dataset
+  - document data source
+  - dataset description
+  - schema documentation
+  - business glossary
 ---
 
 # Data Catalog Entry

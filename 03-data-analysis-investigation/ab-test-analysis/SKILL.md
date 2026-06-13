@@ -1,6 +1,24 @@
 ---
 name: ab-test-analysis
-description: Rigorous A/B test statistical analysis. Use when analyzing experiment results, calculating statistical significance, checking for sample ratio mismatch, or validating test design before launch.
+version: 1.0.0
+platforms:
+  - macos
+  - linux
+  - windows
+description: Rigorous A/B test statistical analysis. Use when analyzing 
+  experiment results, calculating statistical significance, checking for sample 
+  ratio mismatch, or validating test design before launch.
+tags:
+  - data-analytics
+  - investigation
+  - ab-test-analysis
+triggers:
+  - A/B test analysis
+  - experiment results
+  - statistical significance
+  - hypothesis test
+  - sample ratio
+  - confidence interval
 ---
 
 # A/B Test Analysis

@@ -15,6 +15,8 @@
   All credit for the 31 skills, scripts, assets, and category structure goes to the upstream maintainer.
 - **Hermes Agent**：[https://hermes-agent.nousresearch.com](https://hermes-agent.nousresearch.com)
 
+> 🤖 本仓库的格式迁移、内容改进和新增参考文件由 AI 代理自动生成，经人工审核后推送。
+
 ## 用法
 
 ```bash
